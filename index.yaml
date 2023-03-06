@@ -307,6 +307,16 @@ entries:
   quarkus-pipeline:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-03-06T12:47:40.214646619Z"
+    description: A Helm chart tha deploys a tekto pipeline to build a quarkus microservice
+    digest: 485f6ce6f906f8adaa667012aea0b5b8103c90af2063b316b93bee6787c2378b
+    name: quarkus-pipeline
+    type: application
+    urls:
+    - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-pipeline-0.1.14/quarkus-pipeline-0.1.14.tgz
+    version: 0.1.14
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-03-04T21:46:50.349313885Z"
     description: A Helm chart tha deploys a tekto pipeline to build a quarkus microservice
     digest: 4e5bf5d80e3b2a7c384c7ef1b45790c1577ad9835737399276edfa380eb3ac38
@@ -676,4 +686,4 @@ entries:
     urls:
     - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-run-0.1.0/quarkus-run-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-06T12:31:41.459775228Z"
+generated: "2023-03-06T12:47:40.214946223Z"
